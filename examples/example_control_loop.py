@@ -33,7 +33,7 @@ import rtde.rtde_config as rtde_config
 
 # logging.basicConfig(level=logging.INFO)
 
-ROBOT_HOST = "localhost"
+ROBOT_HOST = '192.168.1.2'
 ROBOT_PORT = 30004
 config_filename = "control_loop_configuration.xml"
 
